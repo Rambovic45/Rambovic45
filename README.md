@@ -3,7 +3,7 @@ Hello, I am a not good developper, I am French Canadian and I like eat a Poutine
 
 ## My Set-up 🎮
 
-[![DetectionHSL](https://img.shields.io/static/v1?label=DetectionHSL&color=green&style=for-the-badge&logo=powershell&link=https://github.com/DetectionHSL&message=GITHUB)](https://github.com/DetectionHSL)
+[![My Program](https://img.shields.io/static/v1?label=DetectionHSL&color=green&style=for-the-badge&logo=powershell&link=https://github.com/DetectionHSL&message=GITHUB)](https://github.com/DetectionHSL)
 
 ## My Projects 💻
 
