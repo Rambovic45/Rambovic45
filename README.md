@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, My name is Rambovic45 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hello, I am a not good developper, I am French Canadian and I like eat a Poutine ! I am not very well in English. I speak French. I have youtube channel and I have Discord.
+
+## My Set-up 🎮
+
+[![DetectionHSL](https://img.shields.io/static/v1?label=DetectionHSL&color=green&style=for-the-badge&logo=powershell&link=https://github.com/DetectionHSL&message=GITHUB)](https://github.com/DetectionHSL)
+
+## My Projects 💻
+
 
 <!--
 **Rambovic45/Rambovic45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
