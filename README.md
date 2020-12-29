@@ -3,7 +3,7 @@ Hello, I am a not good developper, I am French Canadian and I like eat a Poutine
 
 ## My Set-up 🎮
 
-[![myProgarm](https://img.shields.io/static/v1?label=My Program&color=blue&style=for-the-badge&logo=powershell&link=https://github.com/Rambovic45/Rambovic45/blob/main/file/myProgram&message=GITHUB)](https://github.com/Rambovic45/Rambovic45/blob/main/file/myProgram)
+[![myProgarm](https://img.shields.io/static/v1?label=Program&color=blue&style=for-the-badge&logo=powershell&link=https://github.com/Rambovic45/Rambovic45/blob/main/file/myProgram&message=GITHUB)](https://github.com/Rambovic45/Rambovic45/blob/main/file/myProgram)
 
 ## My Projects 💻
 
